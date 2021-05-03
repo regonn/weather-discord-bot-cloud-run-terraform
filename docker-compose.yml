@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  api:
+    build: ./docker/weather_discord_bot_for_cloud_run
+    ports:
+      - "8080:8080"

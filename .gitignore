@@ -1,0 +1,8 @@
+docker/weather_discord_bot_for_cloud_run/.env
+docker/weather_discord_bot_for_cloud_run/main
+terraform/.terraform/*
+terraform/.terraform.lock.hcl
+terraform/account.json
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+.env
